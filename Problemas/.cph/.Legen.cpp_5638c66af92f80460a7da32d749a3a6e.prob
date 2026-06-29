@@ -1,0 +1,1 @@
+{"name":"Local: Legen","url":"/home/miguel/proyectos/personal-book/Problemas/Legen.cpp","tests":[{"id":1778294808231,"input":"3 6\n3 2 1\nheart\nearth\nart\n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/miguel/proyectos/personal-book/Problemas/Legen.cpp","group":"local","local":true}

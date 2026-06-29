@@ -1,0 +1,1 @@
+{"name":"Local: Marlin","url":"/home/miguel/proyectos/personal-book/Problemas/Marlin.cpp","tests":[{"id":1778895906952,"input":"7 2","output":""},{"id":1778895917656,"input":"5 3\n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/miguel/proyectos/personal-book/Problemas/Marlin.cpp","group":"local","local":true}

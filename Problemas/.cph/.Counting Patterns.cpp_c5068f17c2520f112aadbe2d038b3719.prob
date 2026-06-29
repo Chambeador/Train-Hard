@@ -1,0 +1,1 @@
+{"name":"Local: Counting Patterns","url":"/home/miguel/proyectos/personal-book/Problemas/Counting Patterns.cpp","tests":[{"id":1778290079011,"input":"aybabtu\n3\nbab\nabc\na","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/miguel/proyectos/personal-book/Problemas/Counting Patterns.cpp","group":"local","local":true}
