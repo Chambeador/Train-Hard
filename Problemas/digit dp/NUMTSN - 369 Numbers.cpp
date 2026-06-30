@@ -1,3 +1,4 @@
+//https://www.spoj.com/problems/NUMTSN/
 #include<bits/stdc++.h>
 #define int long long
 using namespace std;
